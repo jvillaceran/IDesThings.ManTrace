@@ -1,0 +1,9 @@
+D:\IDesThings\Software\IDesThings.ManTrace\IDesThings.ManTrace\bin\Debug\netcoreapp2.1\IDesThings.ManTrace.deps.json
+D:\IDesThings\Software\IDesThings.ManTrace\IDesThings.ManTrace\bin\Debug\netcoreapp2.1\IDesThings.ManTrace.dll
+D:\IDesThings\Software\IDesThings.ManTrace\IDesThings.ManTrace\bin\Debug\netcoreapp2.1\IDesThings.ManTrace.pdb
+D:\IDesThings\Software\IDesThings.ManTrace\IDesThings.ManTrace\obj\Debug\netcoreapp2.1\IDesThings.ManTrace.csproj.CoreCompileInputs.cache
+D:\IDesThings\Software\IDesThings.ManTrace\IDesThings.ManTrace\obj\Debug\netcoreapp2.1\IDesThings.ManTrace.AssemblyInfoInputs.cache
+D:\IDesThings\Software\IDesThings.ManTrace\IDesThings.ManTrace\obj\Debug\netcoreapp2.1\IDesThings.ManTrace.AssemblyInfo.cs
+D:\IDesThings\Software\IDesThings.ManTrace\IDesThings.ManTrace\obj\Debug\netcoreapp2.1\IDesThings.ManTrace.dll
+D:\IDesThings\Software\IDesThings.ManTrace\IDesThings.ManTrace\obj\Debug\netcoreapp2.1\IDesThings.ManTrace.pdb
+D:\IDesThings\Software\IDesThings.ManTrace\IDesThings.ManTrace\obj\Debug\netcoreapp2.1\IDesThings.ManTrace.csprojAssemblyReference.cache
